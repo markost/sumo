@@ -1,0 +1,3 @@
+- set directoryfile structure
+- set basic server app.js
+- etc
